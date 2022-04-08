@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing Details component renders snapshot for CountryInfo component 1`] = `ShallowWrapper {}`;
+
+exports[`testing Details component renders snapshot for DetailsInfo component 1`] = `ShallowWrapper {}`;
